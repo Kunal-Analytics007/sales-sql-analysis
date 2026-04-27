@@ -1,0 +1,9 @@
+order_id,order_date,region,category,product_name,quantity,revenue,profit
+1,2024-01-01,North,Electronics,Phone,2,20000,5000
+2,2024-01-02,South,Furniture,Chair,5,15000,3000
+3,2024-01-03,East,Electronics,Laptop,1,50000,10000
+4,2024-01-04,West,Clothing,T-shirt,10,10000,2000
+5,2024-01-05,North,Electronics,Headphones,3,9000,1500
+6,2024-01-06,South,Furniture,Table,2,20000,4000
+7,2024-01-07,East,Clothing,Jeans,4,12000,2500
+8,2024-01-08,West,Electronics,Tablet,2,30000,7000
